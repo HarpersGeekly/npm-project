@@ -37,8 +37,12 @@ const hello = () =>
 hello();
 
 console.log(data.whichSideOfTheForce); // console log the property value of the key whichSideOfTheForce of the data object
+console.log(data.someNumber);
+console.log(data.arnie);
 
 $("body")
     .html("<h1>Hello from jQuery</h1>")
     .css("background-color", "gray")
 ;
+
+//TO RUN: Terminal command: npm run build
