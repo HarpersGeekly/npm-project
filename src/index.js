@@ -46,3 +46,5 @@ $("body")
 ;
 
 //TO RUN: Terminal command: npm run build
+
+//We're running a server with node (javascript backend) using webpack dependency structures. Similar to a pom.xml file in Java.
